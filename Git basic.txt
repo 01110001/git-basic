@@ -1,0 +1,7 @@
+Git basic
+1. create the repo & copy the link
+2. go to the foler, git init
+3. git add .
+4. git -m commit "mon commit text"
+5. git remote add origin <link>
+6. git push -u origin master
